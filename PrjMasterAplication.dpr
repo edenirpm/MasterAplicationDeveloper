@@ -3,7 +3,8 @@ program PrjMasterAplication;
 uses
   System.StartUpCopy,
   FMX.Forms,
-  FrmMainTeste in 'View\FrmMainTeste.pas' {Form3};
+  FrmMainTeste in 'View\FrmMainTeste.pas' {Form3},
+  Controller.FrmMainTeste in 'Controller\Controller.FrmMainTeste.pas';
 
 {$R *.res}
 
