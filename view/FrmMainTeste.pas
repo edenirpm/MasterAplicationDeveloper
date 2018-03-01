@@ -21,12 +21,16 @@ var
   Form3: TForm3;
 
 implementation
-
+ uses
+  Controller.FrmMainTeste; // Unico uses para poder utilizar o que tem no controller
 {$R *.fmx}
 
 procedure TForm3.SpeedButton1Click(Sender: TObject);
+ var
+  Controller:IControllerMSG; //Instancia da interface
 begin
-Showmessage('Teste');
+  Controller:=TCtrlMessage.create; // Qual objeto sera criado que contemple essa interface
+  Controller.Showmsg('Teste de uma mensagem showmessage');// metodo da interface
 end;
 
 end.
