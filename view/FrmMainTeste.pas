@@ -10,6 +10,7 @@ uses
 type
   TForm3 = class(TForm)
     SpeedButton1: TSpeedButton;
+    procedure SpeedButton1Click(Sender: TObject);
   private
     { Private declarations }
   public
@@ -22,5 +23,10 @@ var
 implementation
 
 {$R *.fmx}
+
+procedure TForm3.SpeedButton1Click(Sender: TObject);
+begin
+Showmessage('Teste');
+end;
 
 end.
