@@ -1,13 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2018/03/01 19:21:59.545,=C:\Users\MAC\Documents\Embarcadero\Studio\Projects\MasterAplication\Unit1.pas</Transaction>
-    <Transaction>2018/03/01 19:22:18.246,C:\Users\MAC\Documents\Embarcadero\Studio\Projects\MasterAplication\Controller\Controller.FrmMainTeste.pas=C:\Users\MAC\Documents\Embarcadero\Studio\Projects\MasterAplication\Unit1.pas</Transaction>
-    <Transaction>2018/03/02 02:59:27.950,=C:\Users\MAC\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
-    <Transaction>2018/03/02 03:00:58.089,C:\Users\MAC\Documents\Embarcadero\Studio\Projects\MasterAplication\View\FrmMainTeste.pas=C:\Users\MAC\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
-    <Transaction>2018/03/02 03:00:58.089,C:\Users\MAC\Documents\Embarcadero\Studio\Projects\MasterAplication\View\FrmMainTeste.fmx=C:\Users\MAC\Documents\Embarcadero\Studio\Projects\Unit3.fmx</Transaction>
-    <Transaction>2018/03/02 03:01:15.383,C:\Users\MAC\Documents\Embarcadero\Studio\Projects\MasterAplication\PrjMasterAplication.dproj=C:\Users\MAC\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+	<Transactions>
+    <Transaction>2018/03/01 19:21:59.000.545,=C:\Users\MAC\Documents\Embarcadero\Studio\Projects\MasterAplication\Unit1.pas</Transaction>
+    <Transaction>2018/03/01 19:22:18.000.246,C:\Users\MAC\Documents\Embarcadero\Studio\Projects\MasterAplication\Controller\Controller.FrmMainTeste.pas=C:\Users\MAC\Documents\Embarcadero\Studio\Projects\MasterAplication\Unit1.pas</Transaction>
+    <Transaction>2018/03/01 19:51:14.368,=C:\Users\MAC\Documents\GitHub\MasterAplicationDeveloper\Unit1.pas</Transaction>
+    <Transaction>2018/03/01 19:51:31.177,C:\Users\MAC\Documents\GitHub\MasterAplicationDeveloper\model\model.cliente.teste.pas=C:\Users\MAC\Documents\GitHub\MasterAplicationDeveloper\Unit1.pas</Transaction>
+    <Transaction>2018/03/02 02:59:27.000.950,=C:\Users\MAC\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2018/03/02 03:00:58.000.089,C:\Users\MAC\Documents\Embarcadero\Studio\Projects\MasterAplication\View\FrmMainTeste.fmx=C:\Users\MAC\Documents\Embarcadero\Studio\Projects\Unit3.fmx</Transaction>
+    <Transaction>2018/03/02 03:00:58.000.089,C:\Users\MAC\Documents\Embarcadero\Studio\Projects\MasterAplication\View\FrmMainTeste.pas=C:\Users\MAC\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2018/03/02 03:01:15.000.383,C:\Users\MAC\Documents\Embarcadero\Studio\Projects\MasterAplication\PrjMasterAplication.dproj=C:\Users\MAC\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
   </Transactions>
-  <ActiveMobileDevice>   <NoProfile iOSSimulator="iPhone5"/>
-  </ActiveMobileDevice>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
 </BorlandProject>

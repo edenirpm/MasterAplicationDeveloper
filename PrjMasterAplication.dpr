@@ -4,7 +4,8 @@ uses
   System.StartUpCopy,
   FMX.Forms,
   FrmMainTeste in 'View\FrmMainTeste.pas' {Form3},
-  Controller.FrmMainTeste in 'Controller\Controller.FrmMainTeste.pas';
+  Controller.FrmMainTeste in 'Controller\Controller.FrmMainTeste.pas',
+  model.cliente.teste in 'model\model.cliente.teste.pas';
 
 {$R *.res}
 
